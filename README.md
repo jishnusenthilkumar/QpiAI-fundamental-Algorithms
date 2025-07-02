@@ -1,1 +1,1 @@
-# QpiAI-fundamental-Algorithms
+# fundamental-Algorithms
