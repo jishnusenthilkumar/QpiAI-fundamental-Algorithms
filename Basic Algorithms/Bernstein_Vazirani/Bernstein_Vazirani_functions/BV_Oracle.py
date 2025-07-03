@@ -2,7 +2,7 @@ from qiskit import QuantumCircuit
 
 def bv_oracle(secret_string: str) -> QuantumCircuit:
     """
-    Create a Bernstein–Vazirani oracle for a given secret bit-string.
+    Create a Bernstein_Vazirani oracle for a given secret bit-string.
 
     Parameters
     ----------

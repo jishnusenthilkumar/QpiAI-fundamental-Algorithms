@@ -5,8 +5,8 @@
 #  `Bernstein_Vazirani/` package (see layout below).
 # ────────────────────────────────────────────────────────────────
 
-from Bernstein_Vazirani.BV_RunSim    import run_bv
-from Bernstein_Vazirani.BV_ShowCounts import show_counts
+from Bernstein_Vazirani_functions.BV_RunSim    import run_bv
+from Bernstein_Vazirani_functions.BV_ShowCounts import show_counts
 
 
 def main() -> None:
